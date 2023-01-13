@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cwei0
-- 👀 I’m interested in Frontend, python and R
-- 🌱 I’m currently learning Frontend trio
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in MERN stack and python Django.
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me bottgabriel@icloud.com
 
