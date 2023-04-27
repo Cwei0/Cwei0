@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on **open source projects that contribute to the community growth**
 
-- 🤔 Looking for assistance in Mobile and System DevOPs
+- 🤔 Looking for assistance in DevOPs and Cloud computing
 
 - 📫 How to reach me bottgabriel@hotmail.com
 
